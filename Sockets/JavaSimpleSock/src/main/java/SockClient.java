@@ -16,7 +16,7 @@ import java.util.Scanner;
 class SockClient {
   public static void main(String args[]) {
     Socket sock = null;
-    String host = "localhost";
+    String host = "3.138.184.112";
     String message = "";
     Integer number = 0;
     Scanner scanner = new Scanner(System.in);
